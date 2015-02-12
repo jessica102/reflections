@@ -28,6 +28,10 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+  They help by making you see which commits you can see when you use git log
+  in each branch, and also by making you realize if you need to create a new
+  branch or not.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
